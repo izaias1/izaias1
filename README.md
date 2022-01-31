@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @izaias1
-- 🌱 I’m currently learning Laravel
-- 📫 How to reach me contato@aguiacode.com.br
+- 👋 Olá.
+- 🌱 Estudando Laravel
+- 📫 Contato: izaiasfrancisco1@gmail.com
 
 <!---
 izaias1/izaias1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

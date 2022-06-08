@@ -1,5 +1,4 @@
 - 👋 Olá.
-- 🌱 Estudando Laravel
 - 📫 Contato: izaiasfrancisco1@gmail.com
 
 <!---

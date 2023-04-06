@@ -2,8 +2,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izaias1&count_private=true&show_icons=true&theme=dracula)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=izaias1&repo=github-readme-stats)](https://github.com/izaias1/github-readme-stats)
-
 ## Essas são agumas tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline_block">

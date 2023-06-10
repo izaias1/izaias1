@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Izaias Francisco 🖐️
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=izaias1&count_private=true&show_icons=true&theme=dracula)
-
 ## Essas são agumas tecnologias que eu uso no meu dia a dia.
 
 <div style="display: inline_block">

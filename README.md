@@ -25,6 +25,3 @@
     alt="Logo git"/></code>
 </div> 
 </p>
-
-
-

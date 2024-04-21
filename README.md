@@ -1,7 +1,4 @@
 <p>
-- 🔭 Em busca da tão sonhada vaga como Desenvolvedor Jr <br>
-- 🚀 Em busca do fullstack, tenho conhecimento das stack's abaixos
-
 <div>
 <code><img
     height="30"

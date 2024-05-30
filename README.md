@@ -21,6 +21,7 @@
     alt="Logo git"/></code>
 
 ## 🖥️ LINKS
-[MEU PROMOTOR](https://meupromotor.online/) <br>
-[CONTROLELEITE](https://controleleite.com/)<br>
+[MEU PROMOTOR ONLINE](https://meupromotor.online/) <br>
+[CONTRO LELEITE](https://controleleite.com/)<br>
+[CONTROLE ESTOQUE](https://controleestoque.com.br/)<br>
 [![portfolio](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaiasfrancisco/)<br><br>

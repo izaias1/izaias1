@@ -23,5 +23,4 @@
 ## 🖥️ LINKS
 [MEU PROMOTOR ONLINE](https://meupromotor.online/) <br>
 [CONTRO LELEITE](https://controleleite.com/)<br>
-[CONTROLE ESTOQUE](https://controleestoque.com.br/) (EM ANDAMENTO)<br>
 [![portfolio](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/izaiasfrancisco/)<br><br>
